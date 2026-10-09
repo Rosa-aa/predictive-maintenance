@@ -1,0 +1,1 @@
+{"sensors": ["s2", "s3", "s4", "s6", "s7", "s8", "s9", "s11", "s12", "s13", "s14", "s15", "s17", "s20", "s21"], "af": ["s2_mean", "s3_mean", "s4_mean", "s6_mean", "s7_mean", "s8_mean", "s9_mean", "s11_mean", "s12_mean", "s13_mean", "s14_mean", "s15_mean", "s17_mean", "s20_mean", "s21_mean"], "W": 30, "RUL_MAX": 125.0, "thr_if": 0.5617443197168877, "thr_ae": 0.017856039106845856}
